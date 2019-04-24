@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da21682f-d572-44f6-890b-28c455aa1e5c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/w0409355.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../contactPage.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../contactPage.html" beforeDir="false" />
-    </list>
+    <list default="true" id="da21682f-d572-44f6-890b-28c455aa1e5c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -246,7 +239,7 @@
       <workItem from="1554413868318" duration="1866000" />
       <workItem from="1556108285224" duration="344000" />
       <workItem from="1556108841964" duration="639000" />
-      <workItem from="1556109559932" duration="550000" />
+      <workItem from="1556109559932" duration="809000" />
     </task>
     <task id="LOCAL-00001" summary="Portfolio first push">
       <created>1556108942488</created>
@@ -273,7 +266,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32165000" />
+    <option name="totallyTimeSpent" value="32424000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
