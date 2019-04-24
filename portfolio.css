@@ -314,7 +314,8 @@ footer{
     border-bottom:1px solid #dcd9d9
 }
 #about h2{
-    color:#374054
+    color:#008b8b;
+    font-weight: normal;
 }
 #about p{
     color:#74808a;
@@ -327,7 +328,8 @@ footer{
     text-align:center
 }
 #education h2{
-    color:#374054;
+    color:#008b8b;
+    font-weight: normal;
     margin-bottom:50px
 }
 .education-block{
@@ -380,7 +382,8 @@ table, th, td {
     text-align:center
 }
 #projects h2{
-    color:#374054;
+    color:#008b8b;
+    font-weight: normal;
     margin-bottom:50px
 }
 .project{
@@ -395,7 +398,7 @@ table, th, td {
     float:left
 }
 
-#workvideo1,#workvideo2,#workvideo3{
+#workvideo1,#workvideo2,#workvideo3,#workvideo4{
  width: 300px;
 }
 .project-info{
@@ -430,7 +433,8 @@ table, th, td {
     text-align:center
 }
 #skills h2{
-    color:#374054;
+    color:#008b8b;
+    font-weight: normal;
     margin-bottom:50px
 }
 #skills ul{
@@ -444,14 +448,14 @@ table, th, td {
     margin:7px;
     padding:5px 10px;
     color:#374054;
-    background:rgba(0,255,0,0.3);
+    background:#008b8b70;
     list-style:none;
     cursor:default;
     font-size:1.2em
 }
 #contact{
     padding:50px 15px;
-    background:green;
+    background:darkcyan;
     text-align:center
 }
 #contact h2{
