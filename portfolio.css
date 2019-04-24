@@ -410,7 +410,7 @@ table, th, td {
 }
 .project-info h3{
     font-size:1.5em;
-    font-weight:300;
+    font-weight:normal;
     color:#374054;
     margin:0 0 15px 0
 }
