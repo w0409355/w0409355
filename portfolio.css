@@ -242,8 +242,9 @@ footer{
 }
 #lead-content h1{
     color:#fff;
-    font-weight:900;
+    font-weight:700;
     font-size:3em;
+    font-family: "" ;
     text-transform:uppercase;
     letter-spacing:0.05em;
     line-height:0.9em
